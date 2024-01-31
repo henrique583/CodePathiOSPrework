@@ -1,4 +1,6 @@
 # CodePathiOSPrework
+Built an app that includes some basic information about me (name, college, and aspirations) with a button that changes the background color of the screen,
+as well as the font of my name every time you press it.
 
 # App Brainstorming
 Favorite applications (in no particular order):
