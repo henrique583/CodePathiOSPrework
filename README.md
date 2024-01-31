@@ -16,10 +16,9 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/87c348ec88da4f768784a29b85f97d6f">
     </a>
-    <a href="https://www.loom.com/share/87c348ec88da4f768784a29b85f97d6f">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/87c348ec88da4f768784a29b85f97d6f-with-play.gif">
+    <a href="https://www.loom.com/share/8787f18f90774c1faa0f13ec6ab6bed3">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8787f18f90774c1faa0f13ec6ab6bed3-with-play.gif">
     </a>
   </div>
 
@@ -27,7 +26,7 @@ The following **required** functionality is completed:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I faced some challenges when simulating the first iteration of CodePathiOSPrework because I had altered the button and wanted to figure out what the error messages meant. I figured it out by searching for help online and found out how to remove old connections to the button. Then, I faced some challenges with simulating my app on different devices because of the way that the button and the labels were laid out, but I found out how to center them and group them nicely using constraints.
 
 
 ## License
@@ -62,4 +61,4 @@ Notability
  - Ability to format pages and use templates is very helpful.
 
 Would love to build an app that helps people build habits by offering a great UX and streak feature that keeps users wanting to use the app as their.
-preferred method of daily habit/task checking. Also want to add the option to journal in the app that includes journaling templates based on scientific research.
+preferred method of daily habit/task checking. Also want to add the option to journal in the app, which would include journaling templates based on scientific research.
